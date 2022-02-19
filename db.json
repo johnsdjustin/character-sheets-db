@@ -1,5 +1,7 @@
- [
+{
+	"characters": [
         {"id": "1", "name": "Bilbo", "class": "Burglar", "health": 10, "armorClass": 10},
 		{"id": "2", "name": "Aragorn", "class": "Warrior", "health": 20, "armorClass": 20},
 		{"id": "3", "name": "Legolas", "class": "Archer", "health": 15, "armorClass": 15}
-]
+	]
+}
