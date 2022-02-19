@@ -9,5 +9,3 @@ Call the service with this URL: https://my-json-server.typicode.com/johnsdjustin
 ### Learn More
 
 Check out My JSON Server here: https://my-json-server.typicode.com/
-
-
